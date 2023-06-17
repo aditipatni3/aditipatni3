@@ -1,4 +1,4 @@
-<h1 align="center">Hello Fellow <Developers!/>, I'm Aditi!!</h1>
+<h1 align="center">Hello Fellow <code><Developers!/></code>, I'm Aditi!!</h1>
 <h3 align="center">Hi there! I'm a front end web developer with a passion for crafting elegant and efficient solutions to complex problems. I specialize in building dynamic, responsive web applications that engage users and drive results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditipatni3&label=Profile%20views&color=08fdab&style=plastic" alt="aditipatni3" /> </p>
