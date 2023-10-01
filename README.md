@@ -33,4 +33,4 @@
 
 <p><img align="center"   src="https://github-readme-streak-stats.herokuapp.com/?user=aditipatni3&theme=highcontrast" alt="aditipatni3" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditipatni3" alt="aditipatni3" /></a> </p>
+
